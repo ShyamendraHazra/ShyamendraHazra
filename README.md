@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShyamendraHazra
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web-Dev
 - 📫 How to reach me shyamendrahazra@gmail.com
 
 <!---
